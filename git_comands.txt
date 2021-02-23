@@ -11,3 +11,30 @@ nothing is added
 creating a text file
 ------------------------
 D:\gitProjekt> dir>test1.txt
+
+Acessing to directory
+-----------------------
+$ cd D:\gitProjekt>
+
+Git and GitHubBeginner Tutorial 3- Getting Started
+---------------------------------------------------
+
+step 1: check if git already exists or installed
+
+step 2: download and install Git
+
+step 3: add your projekt to git
+
+step 4: commands
+----------------
+$ git init
+$ git status
+$ git add
+$ git commit -m ""
+$ git remote add origin https://github.com/shiuli/Github_learning.git
+
+step 5: adding to remote repository
+----------------------------------------------------------
+
+
+
