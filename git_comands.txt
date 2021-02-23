@@ -1,0 +1,13 @@
+initialize git:
+command in windows command promt:
+git init
+Initialized empty Git repository in D:/gitProjekt/.git/
+
+git status
+------------
+nothing is added
+
+
+creating a text file
+------------------------
+D:\gitProjekt> dir>test1.txt
